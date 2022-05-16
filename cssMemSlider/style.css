@@ -164,4 +164,11 @@ input[name="r"] {
   width: 75%;
   }
 }
+
+@media screen and (max-width: 479px) {
+    .slider-out-wrapper {
+  width: 85%;
+  }
+
+}
 /* ------------ media end --------------- */

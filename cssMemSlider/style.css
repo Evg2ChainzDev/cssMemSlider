@@ -146,7 +146,7 @@ body {
 input[name="r"] {
   visibility: hidden;
 }
-
+/* ------------ media start --------------- */
 @media screen and (max-width: 767px) {
   .text-and-nav {
     justify-content: space-around;
@@ -164,3 +164,4 @@ input[name="r"] {
   width: 75%;
   }
 }
+/* ------------ media end --------------- */
